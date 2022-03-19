@@ -1,7 +1,7 @@
 import time
 
 inp =  int(input("Type a number from 1-100: "))
-guesses = int()
+guesses = 1
 
 start = time.time()
 
